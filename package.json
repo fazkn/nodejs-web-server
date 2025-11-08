@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "First Web Service Project with Node.js",
+  "homepage": "https://github.com/fazkn/nodejs-web-server#readme",
+  "bugs": {
+    "url": "https://github.com/fazkn/nodejs-web-server/issues"
+  },
+  "keywords": ["nodejs", "web service", "rest api", "hapi", "backend"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazkn/nodejs-web-server.git"
+  },
+  "license": "ISC",
+  "author": "fazkn",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
